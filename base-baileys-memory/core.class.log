@@ -1,0 +1,201 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: '1AC989C793E84F8ED65901C74028D114',
+    participant: undefined
+  },
+  messageTimestamp: 1746307053,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '584124204487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d4c13493-5e39-4408-a01c-da776726f0cd',
+  keyword: 'key_5cba720a-ae62-43ac-ab9d-21fd3f375ca1',
+  answer: '✨ ¡Hola Viajero! ✨\n' +
+    '*Soy Nenita*, tu bot asistente 🤖\n' +
+    '¿En qué puedo ayudarte? 😊\n' +
+    '\n' +
+    'Elige una opción:\n' +
+    '\n' +
+    '🏖 *Destinos:*\n' +
+    '🏝 1 Chichiriviche\n' +
+    '🏝 2 Mochima\n' +
+    '🏝 3 Tucacas\n' +
+    '\n' +
+    '📅 *Consultas:*\n' +
+    '👉 *fechas* - Ver disponibilidad\n' +
+    '👉 *reservar* - Iniciar reserva\n' +
+    '\n' +
+    'ℹ *Información:*\n' +
+    '👉 *información* - Sobre nuestra agencia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e52888ae94a04a44a23607559b0a5ead'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: '15839D2BA4805B90C39F0CC92EBA8AD3',
+    participant: undefined
+  },
+  messageTimestamp: 1746307066,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Fechas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Fechas',
+  from: '584124204487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_89c0faa7-8380-4902-af7a-0fbe83518582',
+  keyword: 'key_b4a919c4-ab40-4767-9ea0-7fb02e93e815',
+  answer: '📅 *Consulta de Fechas Disponibles*\n' +
+    '\n' +
+    'Escribe el nombre del destino para ver sus fechas programadas:\n' +
+    '🏝 *Chichiriviche*\n' +
+    '🏝 *Mochima*\n' +
+    '🏝 *Tucacas*\n' +
+    '🏝 *Ocumare*\n' +
+    '\n' +
+    'O escribe *todas* para ver toda la programación',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f8ecaed7a8d60f14fd3223e214773d14'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fdcaca36-d49d-4207-8e48-16bdda19373e',
+  keyword: 'ans_89c0faa7-8380-4902-af7a-0fbe83518582',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '2c9176e5d633e37efb488818510f37cd'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: '579BF73DB03E907019F7C26200A99003',
+    participant: undefined
+  },
+  messageTimestamp: 1746307075,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chichiriviche',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Chichiriviche',
+  from: '584124204487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: '0B0E78E5BDFC9DF598EA6F793CB59CB5',
+    participant: undefined
+  },
+  messageTimestamp: 1746307108,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Información',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Información',
+  from: '584124204487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a9261deb-6bcf-4b7e-b8a5-6c4a28da25a5',
+  keyword: 'key_f7ce9c1a-6b64-4b8f-b951-3faa4151db5e',
+  answer: '🌟 *Somos una agencia con más de 25 años de trayectoria* 🌟\n' +
+    '\n' +
+    '✨ *Paquetes Full Day con todo incluido:*\n' +
+    '- 🚌 Bus con aire acondicionado\n' +
+    '- 🍽 3 comidas diarias\n' +
+    '- ⛵ Lanchas a playas paradisíacas\n' +
+    '- 🏨 Habitaciones privadas\n' +
+    '- 🕒 Asistencia 24/7\n' +
+    '- 💳 Facilidades de pago\n' +
+    '\n' +
+    'Escribe el *número* de tu destino favorito para ver detalles:\n' +
+    '1️⃣ Chichiriviche\n' +
+    '2️⃣ Mochima\n' +
+    '3️⃣ Tucacas',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '46c841261e19f60f86329b5d29907f38'
+}
