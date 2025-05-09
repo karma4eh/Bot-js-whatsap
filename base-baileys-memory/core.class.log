@@ -1,0 +1,869 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: '1AE838DE616F23623910C0E1A0A0B55D',
+    participant: undefined
+  },
+  messageTimestamp: 1746753161,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '584124204487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc110722-5bde-45aa-a482-a7b19c59606a',
+  keyword: 'key_675791cd-208f-4795-9096-8d6ed500fa58',
+  answer: '✨ ¡Hola Viajero! ✨\n' +
+    '*Soy Nenita*, tu bot asistente 🤖\n' +
+    '¿En qué puedo ayudarte? 😊\n' +
+    '\n' +
+    'Elige una opción:\n' +
+    '\n' +
+    '🏖 *Destinos:*\n' +
+    '🏝 1 Chichiriviche\n' +
+    '🏝 2 Mochima\n' +
+    '🏝 3 Tucacas\n' +
+    '\n' +
+    '📅 *Consultas:*\n' +
+    '👉 *fechas* - Ver disponibilidad\n' +
+    '👉 *reservar* - Iniciar reserva\n' +
+    '\n' +
+    'ℹ *Información:*\n' +
+    '👉 *información* - Sobre nuestra agencia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '283384b603a752fa713c41468080a9ea'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: 'DABE23C595ECAF984C0580EDA9F7D119',
+    participant: undefined
+  },
+  messageTimestamp: 1746753165,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '584124204487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2eb8a193-d9e7-4864-a6c0-e6b878a6efb4',
+  keyword: 'key_0571100c-7eef-4be8-816e-8716ee25de15',
+  answer: '🌴 *PAQUETE CHICHIRIVICHE* (3-4 días)\n' +
+    '\n' +
+    '📌 *Incluye:*\n' +
+    '- 🚌 Bus cama con puestos asignados\n' +
+    '- ⛵ Visita 4 o 3 playas:\n' +
+    '  • Cayo Sal\n' +
+    '  • Cayo Sombrero\n' +
+    '  • Varadero\n' +
+    '  • Cayo Muerto\n' +
+    '- 🎉 Transporte en chiva rumbera\n' +
+    '- 🏨 Alojamiento con aire acondicionado\n' +
+    '- 🍽 Alimentación completa\n' +
+    '\n' +
+    '¿Qué mes estás interesado en viajar? (Ejemplo: Agosto)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0d253b560f02dfcf67936625fb53812b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c4582813-395f-434f-a7b8-f55e1da8aafd',
+  keyword: 'ans_2eb8a193-d9e7-4864-a6c0-e6b878a6efb4',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '92d9d8fe183c4e65d388d9fa3e3e674c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: '1223C20D46521A8F26DA2B2A6C172DD6',
+    participant: undefined
+  },
+  messageTimestamp: 1746753168,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Agosto',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Agosto',
+  from: '584124204487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584247264765@s.whatsapp.net',
+    fromMe: false,
+    id: '3F7EEC92F68EAA07EBF9',
+    participant: undefined
+  },
+  messageTimestamp: 1746753224,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '584247264765'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc110722-5bde-45aa-a482-a7b19c59606a',
+  keyword: 'key_675791cd-208f-4795-9096-8d6ed500fa58',
+  answer: '✨ ¡Hola Viajero! ✨\n' +
+    '*Soy Nenita*, tu bot asistente 🤖\n' +
+    '¿En qué puedo ayudarte? 😊\n' +
+    '\n' +
+    'Elige una opción:\n' +
+    '\n' +
+    '🏖 *Destinos:*\n' +
+    '🏝 1 Chichiriviche\n' +
+    '🏝 2 Mochima\n' +
+    '🏝 3 Tucacas\n' +
+    '\n' +
+    '📅 *Consultas:*\n' +
+    '👉 *fechas* - Ver disponibilidad\n' +
+    '👉 *reservar* - Iniciar reserva\n' +
+    '\n' +
+    'ℹ *Información:*\n' +
+    '👉 *información* - Sobre nuestra agencia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '283384b603a752fa713c41468080a9ea'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584247264765@s.whatsapp.net',
+    fromMe: false,
+    id: '3FD9BD38BD914FA11D40',
+    participant: undefined
+  },
+  messageTimestamp: 1746753231,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '1', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '584247264765'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2eb8a193-d9e7-4864-a6c0-e6b878a6efb4',
+  keyword: 'key_0571100c-7eef-4be8-816e-8716ee25de15',
+  answer: '🌴 *PAQUETE CHICHIRIVICHE* (3-4 días)\n' +
+    '\n' +
+    '📌 *Incluye:*\n' +
+    '- 🚌 Bus cama con puestos asignados\n' +
+    '- ⛵ Visita 4 o 3 playas:\n' +
+    '  • Cayo Sal\n' +
+    '  • Cayo Sombrero\n' +
+    '  • Varadero\n' +
+    '  • Cayo Muerto\n' +
+    '- 🎉 Transporte en chiva rumbera\n' +
+    '- 🏨 Alojamiento con aire acondicionado\n' +
+    '- 🍽 Alimentación completa\n' +
+    '\n' +
+    '¿Qué mes estás interesado en viajar? (Ejemplo: Agosto)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0d253b560f02dfcf67936625fb53812b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c4582813-395f-434f-a7b8-f55e1da8aafd',
+  keyword: 'ans_2eb8a193-d9e7-4864-a6c0-e6b878a6efb4',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '92d9d8fe183c4e65d388d9fa3e3e674c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584247264765@s.whatsapp.net',
+    fromMe: false,
+    id: '3FC1A5E8DA23C5C175A8',
+    participant: undefined
+  },
+  messageTimestamp: 1746753237,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'agosto', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'agosto',
+  from: '584247264765'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584247264765@s.whatsapp.net',
+    fromMe: false,
+    id: '3F2AAC693B545495DE66',
+    participant: undefined
+  },
+  messageTimestamp: 1746753244,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'reservar',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'reservar',
+  from: '584247264765'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fcc1cc73-1b7c-423f-a8e7-44359b896b7d',
+  keyword: 'key_e263b906-d1ba-4d33-8a27-28bac7c6c344',
+  answer: '📅 *¡Perfecto!* Vamos a crear tu reserva:\n' +
+    '\n' +
+    'Necesitamos:\n' +
+    '1. 📝 Nombre completo\n' +
+    '2. 👥 Número de personas\n' +
+    '3. 📅 Fechas deseadas\n' +
+    '4. 🏖 Destino elegido\n' +
+    '\n' +
+    'Un asesor te contactará pronto para confirmar ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '732537633b6fa8237ba617c388072c65'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584247264765@s.whatsapp.net',
+    fromMe: false,
+    id: '3F4442BB9C6CE42DE24B',
+    participant: undefined
+  },
+  messageTimestamp: 1746753256,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: '1', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '584247264765'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2eb8a193-d9e7-4864-a6c0-e6b878a6efb4',
+  keyword: 'key_0571100c-7eef-4be8-816e-8716ee25de15',
+  answer: '🌴 *PAQUETE CHICHIRIVICHE* (3-4 días)\n' +
+    '\n' +
+    '📌 *Incluye:*\n' +
+    '- 🚌 Bus cama con puestos asignados\n' +
+    '- ⛵ Visita 4 o 3 playas:\n' +
+    '  • Cayo Sal\n' +
+    '  • Cayo Sombrero\n' +
+    '  • Varadero\n' +
+    '  • Cayo Muerto\n' +
+    '- 🎉 Transporte en chiva rumbera\n' +
+    '- 🏨 Alojamiento con aire acondicionado\n' +
+    '- 🍽 Alimentación completa\n' +
+    '\n' +
+    '¿Qué mes estás interesado en viajar? (Ejemplo: Agosto)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '361b0fc56bdc79247e0fe35c29dc9d01'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c4582813-395f-434f-a7b8-f55e1da8aafd',
+  keyword: 'ans_2eb8a193-d9e7-4864-a6c0-e6b878a6efb4',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1e38993fd11a90393356740551cca788'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: '44D025A4FA1EC24AA5DD2C78640D3238',
+    participant: undefined
+  },
+  messageTimestamp: 1746753257,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Reservar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Reservar',
+  from: '584124204487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fcc1cc73-1b7c-423f-a8e7-44359b896b7d',
+  keyword: 'key_e263b906-d1ba-4d33-8a27-28bac7c6c344',
+  answer: '📅 *¡Perfecto!* Vamos a crear tu reserva:\n' +
+    '\n' +
+    'Necesitamos:\n' +
+    '1. 📝 Nombre completo\n' +
+    '2. 👥 Número de personas\n' +
+    '3. 📅 Fechas deseadas\n' +
+    '4. 🏖 Destino elegido\n' +
+    '\n' +
+    'Un asesor te contactará pronto para confirmar ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '732537633b6fa8237ba617c388072c65'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9B7AF4DE1959D25FA4615236129692',
+    participant: undefined
+  },
+  messageTimestamp: 1746753261,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '584124204487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc110722-5bde-45aa-a482-a7b19c59606a',
+  keyword: 'key_675791cd-208f-4795-9096-8d6ed500fa58',
+  answer: '✨ ¡Hola Viajero! ✨\n' +
+    '*Soy Nenita*, tu bot asistente 🤖\n' +
+    '¿En qué puedo ayudarte? 😊\n' +
+    '\n' +
+    'Elige una opción:\n' +
+    '\n' +
+    '🏖 *Destinos:*\n' +
+    '🏝 1 Chichiriviche\n' +
+    '🏝 2 Mochima\n' +
+    '🏝 3 Tucacas\n' +
+    '\n' +
+    '📅 *Consultas:*\n' +
+    '👉 *fechas* - Ver disponibilidad\n' +
+    '👉 *reservar* - Iniciar reserva\n' +
+    '\n' +
+    'ℹ *Información:*\n' +
+    '👉 *información* - Sobre nuestra agencia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '283384b603a752fa713c41468080a9ea'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584247264765@s.whatsapp.net',
+    fromMe: false,
+    id: '3F87E329AB8F37712E7F',
+    participant: undefined
+  },
+  messageTimestamp: 1746753267,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '1.ender colmenares',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1.ender colmenares',
+  from: '584247264765'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: 'D4713E44B0B67CEC4992890A0F815CD2',
+    participant: undefined
+  },
+  messageTimestamp: 1746753268,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola nenita',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola nenita',
+  from: '584124204487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: '551B0D134E78BF5A0DBE3A35D05C1F00',
+    participant: undefined
+  },
+  messageTimestamp: 1746753271,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola nenita',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola nenita',
+  from: '584124204487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dc110722-5bde-45aa-a482-a7b19c59606a',
+  keyword: 'key_675791cd-208f-4795-9096-8d6ed500fa58',
+  answer: '✨ ¡Hola Viajero! ✨\n' +
+    '*Soy Nenita*, tu bot asistente 🤖\n' +
+    '¿En qué puedo ayudarte? 😊\n' +
+    '\n' +
+    'Elige una opción:\n' +
+    '\n' +
+    '🏖 *Destinos:*\n' +
+    '🏝 1 Chichiriviche\n' +
+    '🏝 2 Mochima\n' +
+    '🏝 3 Tucacas\n' +
+    '\n' +
+    '📅 *Consultas:*\n' +
+    '👉 *fechas* - Ver disponibilidad\n' +
+    '👉 *reservar* - Iniciar reserva\n' +
+    '\n' +
+    'ℹ *Información:*\n' +
+    '👉 *información* - Sobre nuestra agencia',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '283384b603a752fa713c41468080a9ea'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584247264765@s.whatsapp.net',
+    fromMe: false,
+    id: '3FB1B47548B0973D8A84',
+    participant: undefined
+  },
+  messageTimestamp: 1746753276,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'agosto', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'agosto',
+  from: '584247264765'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfa056b6-b783-48c4-acbc-0dd4424c0ff9',
+  keyword: 'key_21fdfca1-edb8-4083-ae52-f87f94824ea9',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'b8ea7e498962609d38af10384d39f384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: '1E17AA6791355502B42A18AD2ECF792E',
+    participant: undefined
+  },
+  messageTimestamp: 1746753278,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Chichiriviche',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Chichiriviche',
+  from: '584124204487'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2eb8a193-d9e7-4864-a6c0-e6b878a6efb4',
+  keyword: 'key_0571100c-7eef-4be8-816e-8716ee25de15',
+  answer: '🌴 *PAQUETE CHICHIRIVICHE* (3-4 días)\n' +
+    '\n' +
+    '📌 *Incluye:*\n' +
+    '- 🚌 Bus cama con puestos asignados\n' +
+    '- ⛵ Visita 4 o 3 playas:\n' +
+    '  • Cayo Sal\n' +
+    '  • Cayo Sombrero\n' +
+    '  • Varadero\n' +
+    '  • Cayo Muerto\n' +
+    '- 🎉 Transporte en chiva rumbera\n' +
+    '- 🏨 Alojamiento con aire acondicionado\n' +
+    '- 🍽 Alimentación completa\n' +
+    '\n' +
+    '¿Qué mes estás interesado en viajar? (Ejemplo: Agosto)',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0d253b560f02dfcf67936625fb53812b'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c4582813-395f-434f-a7b8-f55e1da8aafd',
+  keyword: 'ans_2eb8a193-d9e7-4864-a6c0-e6b878a6efb4',
+  answer: '__capture_only_intended__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '92d9d8fe183c4e65d388d9fa3e3e674c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584247264765@s.whatsapp.net',
+    fromMe: false,
+    id: '3FB9191A77E9DA66B3A1',
+    participant: undefined
+  },
+  messageTimestamp: 1746753281,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'reservar',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'reservar',
+  from: '584247264765'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fcc1cc73-1b7c-423f-a8e7-44359b896b7d',
+  keyword: 'key_e263b906-d1ba-4d33-8a27-28bac7c6c344',
+  answer: '📅 *¡Perfecto!* Vamos a crear tu reserva:\n' +
+    '\n' +
+    'Necesitamos:\n' +
+    '1. 📝 Nombre completo\n' +
+    '2. 👥 Número de personas\n' +
+    '3. 📅 Fechas deseadas\n' +
+    '4. 🏖 Destino elegido\n' +
+    '\n' +
+    'Un asesor te contactará pronto para confirmar ✨',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '732537633b6fa8237ba617c388072c65'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584124204487@s.whatsapp.net',
+    fromMe: false,
+    id: '502F732BB78FB61CAE8FE6B718AEB6CC',
+    participant: undefined
+  },
+  messageTimestamp: 1746753281,
+  pushName: 'Karma4eh',
+  broadcast: false,
+  message: Message {
+    conversation: 'Diciembre',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Diciembre',
+  from: '584124204487'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '584247264765@s.whatsapp.net',
+    fromMe: false,
+    id: '3F946C3591D69FDED69B',
+    participant: undefined
+  },
+  messageTimestamp: 1746753292,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'ender colmenares',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ender colmenares',
+  from: '584247264765'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4ecfeebf-23d2-4b4d-80bd-422a7130a38e',
+  keyword: 'key_b6fe1c91-14ae-4a81-8ff7-1a4b5517daa8',
+  answer: '🤖 *Disculpa, no entendí tu mensaje*\n' +
+    '\n' +
+    'Opciones válidas:\n' +
+    '👉 *1*, *2*, *3* - Elegir destino\n' +
+    '👉 *información* - Sobre nuestra agencia\n' +
+    '👉 *reservar* - Iniciar reservación\n' +
+    '👉 *hola* - Volver al inicio',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fcec0a98e9815eb04cd00d21e94affad'
+}
